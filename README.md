@@ -1,7 +1,7 @@
 # ♟ Real-Time Multiplayer Chess Game  
 🔗 [Live Demo](https://chess-sr6b.onrender.com)
 
-![Chess Game Preview](https://github.com/user-attachments/assets/6ff51bc5-0d91-4f69-99ba-cc07d440f5b0)
+![Chess Game Preview](https://github.com/VINAMRA-123/multiplayer-chess/blob/main/public/js/chess-project.mp4)
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
