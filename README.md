@@ -1,60 +1,53 @@
-♟ Real-Time Multiplayer Chess Game
+# ♟ Real-Time Multiplayer Chess Game  
+🔗 [Live Demo](https://chess-sr6b.onrender.com)
 
-Chess Game Preview
-📌 Table of Contents
+![Chess Game Preview](https://github.com/user-attachments/assets/6ff51bc5-0d91-4f69-99ba-cc07d440f5b0)
 
-    Introduction
+## 📌 Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup & Installation](#setup--installation)
+- [Usage Guide](#usage-guide)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
-    Features
+---
 
-    Tech Stack
+## 🧠 Introduction
 
-    Setup & Installation
+A real-time multiplayer chess application built with **Node.js**, **Socket.IO**, and **Chess.js**. Two players can compete in real time with synchronized boards, countdown timers, move validation, and support for spectators.
 
-    Usage Guide
+---
 
-    Project Structure
+## 🚀 Features
 
-    Contributing
+- ♟ Real-time multiplayer gameplay with socket synchronization  
+- ✅ Legal move validation and highlighting  
+- 🔁 Live board updates for both players and spectators  
+- ⏱ Blitz-style countdown timers for each player  
+- 🔄 Restart game functionality  
+- 💡 Visual indicators for check, checkmate, and game over  
+- 👥 Spectator mode for additional clients  
+- 📱 Responsive UI built using **Tailwind CSS**
 
+---
 
-🧠 Introduction
+## 🛠 Tech Stack
 
-A real-time multiplayer chess application built with Node.js, Socket.IO, and Chess.js. Two players can compete in real time with synchronized boards, countdown timers, move validation, and support for spectators.
-🚀 Features
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [Socket.IO](https://socket.io/)
+- [Chess.js](https://github.com/jhlywa/chess.js)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [EJS](https://ejs.co/) — for rendering dynamic HTML
 
-    ♟ Real-time multiplayer gameplay with socket synchronization
+---
 
-    ✅ Legal move validation and highlighting
+## ⚙️ Setup & Installation
 
-    🔁 Live board updates for both players and spectators
-
-    ⏱ Blitz-style countdown timers for each player
-
-    🔄 Restart game functionality
-
-    💡 Visual indicators for check, checkmate, and game over
-
-    👥 Spectator mode for additional clients
-
-    📱 Responsive UI built using Tailwind CSS
-
-🛠 Tech Stack
-
-    Node.js
-
-    Express.js
-
-    Socket.IO
-
-    Chess.js
-
-    Tailwind CSS
-
-    EJS — for rendering dynamic HTML
-
-⚙️ Setup & Installation
-
+```bash
 # 1. Clone the repository
 git clone https://github.com/VINAMRA-123/multiplayer-chess.git
 cd multiplayer-chess
